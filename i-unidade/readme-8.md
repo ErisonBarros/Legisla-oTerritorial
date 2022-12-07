@@ -2,11 +2,10 @@
 Professor: Erison Barros
 Assunto: DIREITO DAS COISAS
 pagina: XX
+description: Prof. Erison Rosa de Oliveira Barros
 ---
 
 # DIREITO DAS COISAS
-
-## DIREITO DAS COISAS
 
 **Direito das Coisas:** conjunto de normas regulamentadoras das relações entre pessoas e os bens materiais. A relação do sujeito com a coisa pode ser de: posse e propriedade.
 
@@ -43,7 +42,7 @@ Propriedade: propriedade ao sujeito ao direito de usar, gozar e ter do bem, e re
 * i) pela transcrição do título de transferência no Registro de Imóveis; -
 * ii) pela sucessão hereditária
 
-## 1.2 INCORPORAÇÃO IMOBILIÁRIA
+## INCORPORAÇÃO IMOBILIÁRIA
 
 **Lei 4591/64:** atividade exercida com o intuito de promover e realizar a construção, com venda total ou parcial de edificações (apartamentos ou casas).
 
