@@ -2,13 +2,7 @@
 description: Prof. Erison Barros
 ---
 
-# Coletânea com a Legislação da  Cartografia Nacional
-
-> Written with [StackEdit](https://stackedit.io/).
->
-> ## Coletânea com a Legislação da  Cartografia Nacional
->
-> **Prof. Erison Rosa de Oliveira Barros**
+# Coletânea com a Legislação da Cartografia Nacional
 
 ### LEGISLAÇÃO CARTOGRÁFICA NACIONAL
 
@@ -16,80 +10,80 @@ Lista com Leis, Decretos e Resoluções referentes à Legislação da Cartografi
 
 ### Resolução
 
-[Resolução PR n° 01, de 24 de Fevereiro de 2015:](https://esteio.com.br/downloads/legislacao/rpr_01_2015_sirgas2000.pdf) Define a data de término do período de transição definido na RPR 01/2005 e dá outras providências sobre a transformação entre os referenciais geodésicos adotados no Brasil.
+[Resolução PR n° 01, de 24 de Fevereiro de 2015:](https://esteio.com.br/downloads/legislacao/rpr\_01\_2015\_sirgas2000.pdf) Define a data de término do período de transição definido na RPR 01/2005 e dá outras providências sobre a transformação entre os referenciais geodésicos adotados no Brasil.
 
-[Resolução PR n° 04, de 18 de Fevereiro de 2012:](https://esteio.com.br/downloads/legislacao/RPR04_de_18_04_2012.pdf) Caracterização do Sistema Geodésico Brasileiro.
+[Resolução PR n° 04, de 18 de Fevereiro de 2012:](https://esteio.com.br/downloads/legislacao/RPR04\_de\_18\_04\_2012.pdf) Caracterização do Sistema Geodésico Brasileiro.
 
-[Resolução CONCAR 001/2009 de dezembro de 2009:](https://esteio.com.br/downloads/legislacao/Resolucao_1_2009_CONCAR_Metadados.pdf) Homologa o Perfil de Metadados Geoespaciais do Brasil
+[Resolução CONCAR 001/2009 de dezembro de 2009:](https://esteio.com.br/downloads/legislacao/Resolucao\_1\_2009\_CONCAR\_Metadados.pdf) Homologa o Perfil de Metadados Geoespaciais do Brasil
 
-[Decreto N° 6.666, de 27 de novembro de 2008](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/D6666.htm). Institui no âmbito do Poder Executivo Federal, a Infraestrutura Nacional de Dados Espaciais \(INDE\).
+[Decreto N° 6.666, de 27 de novembro de 2008](http://www.planalto.gov.br/ccivil\_03/\_Ato2007-2010/2008/Decreto/D6666.htm). Institui no âmbito do Poder Executivo Federal, a Infraestrutura Nacional de Dados Espaciais (INDE).
 
-[Resolução PR n° 01, de 25 de Fevereiro de 2005:](https://esteio.com.br/downloads/legislacao/RPR_01_25fev2005.pdf) Caracterização do Sistema Geodésico Brasileiro.
+[Resolução PR n° 01, de 25 de Fevereiro de 2005:](https://esteio.com.br/downloads/legislacao/RPR\_01\_25fev2005.pdf) Caracterização do Sistema Geodésico Brasileiro.
 
 ### Portarias
 
-[Portaria DECEA n° 128/DECEA, de 10 de Junho de 2003](https://esteio.com.br/downloads/legislacao/_ica63-13.pdf). Aprova a edição da Instrução do Comando da Aeronáutica ICA 63-13, Procedimentos dos órgãos do SISCEAB Relacionados com AVOEM e AVODAC.
+[Portaria DECEA n° 128/DECEA, de 10 de Junho de 2003](https://esteio.com.br/downloads/legislacao/\_ica63-13.pdf). Aprova a edição da Instrução do Comando da Aeronáutica ICA 63-13, Procedimentos dos órgãos do SISCEAB Relacionados com AVOEM e AVODAC.
 
-[Portaria n° 190/GC-5, de 20 Março de 2001](https://esteio.com.br/downloads/legislacao/_portaria190.pdf) Aprova Instruções Reguladoras para autorização e funcionamento de empresas de táxi aéreo e de serviço aéreo especializado e dá outras providências.
+[Portaria n° 190/GC-5, de 20 Março de 2001](https://esteio.com.br/downloads/legislacao/\_portaria190.pdf) Aprova Instruções Reguladoras para autorização e funcionamento de empresas de táxi aéreo e de serviço aéreo especializado e dá outras providências.
 
 ### Decretos
 
-[Decreto s/n°, de 10 de Maio de 2000](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_10_D.pdf). Dispõe sobre a Comissão Nacional de Cartografia – CONCAR, e dá outras providências.
+[Decreto s/n°, de 10 de Maio de 2000](https://esteio.com.br/downloads/legislacao/LEGISLA\_DECRETO\_10\_D.pdf). Dispõe sobre a Comissão Nacional de Cartografia – CONCAR, e dá outras providências.
 
-[Portaria n° 0637 SC-6/FA-61, de 05 de Março de 1998](https://esteio.com.br/downloads/legislacao/_portaria0637.pdf).
+[Portaria n° 0637 SC-6/FA-61, de 05 de Março de 1998](https://esteio.com.br/downloads/legislacao/\_portaria0637.pdf).
 
-[Decreto n° 2.278, de 17 de Julho de 1997](https://esteio.com.br/downloads/legislacao/_decreto2278.pdf). Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério do Planejamento, Orçamento e Gestão, e dá outras providências.
+[Decreto n° 2.278, de 17 de Julho de 1997](https://esteio.com.br/downloads/legislacao/\_decreto2278.pdf). Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério do Planejamento, Orçamento e Gestão, e dá outras providências.
 
 [Decreto n° 1.792, de 15 de Janeiro de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=13). Aprova as Instruções Reguladoras de Aerolevantamento no território nacional.
 
-[Decreto s/n°, de 21 de Junho de 1994](https://esteio.com.br/downloads/legislacao/LEGISLA_CONCAR_1994_D.pdf). Cria a Comissão Nacional de Cartografia – CONCAR, e dá outras providências.
+[Decreto s/n°, de 21 de Junho de 1994](https://esteio.com.br/downloads/legislacao/LEGISLA\_CONCAR\_1994\_D.pdf). Cria a Comissão Nacional de Cartografia – CONCAR, e dá outras providências.
 
-[Resolução PR n° 05, de 31 de Março de 1993:](https://esteio.com.br/downloads/legislacao/normas_gps.pdf) Especificações e Normas Gerais para Levantamentos GPS \(preliminares\)
+[Resolução PR n° 05, de 31 de Março de 1993:](https://esteio.com.br/downloads/legislacao/normas\_gps.pdf) Especificações e Normas Gerais para Levantamentos GPS (preliminares)
 
-[Resolução PR n° 23, de 21 de Fevereiro de 1989:](https://esteio.com.br/downloads/legislacao/rpr_2389.pdf) Parâmetros para Transformação de Sistemas Geodésicos
+[Resolução PR n° 23, de 21 de Fevereiro de 1989:](https://esteio.com.br/downloads/legislacao/rpr\_2389.pdf) Parâmetros para Transformação de Sistemas Geodésicos
 
-[Decreto n° 89.817, de 20 de Junho de 1984](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_89817_D.pdf) Estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacional.
+[Decreto n° 89.817, de 20 de Junho de 1984](https://esteio.com.br/downloads/legislacao/LEGISLA\_DECRETO\_89817\_D.pdf) Estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacional.
 
-[Resolução PR n° 22, de 21 de Julho de 1983](https://esteio.com.br/downloads/legislacao/LEGISLA_RESOLUCAO_D.pdf). [Decreto-Lei n° 2267 regulamenta o Decreto-Lei n.° 1.177, de 21 de junho de 1971](https://esteio.com.br/downloads/legislacao/LEGISLA_DECRETO_2267_D.pdf). Estabelece as Especificações e Normas Gerais para Levantamentos Geodésicos em território brasileiro e efetua alteração no Apêndice II da Resolução da Presidência do IBGE N° 22, de 21/07/83, relacionada a Parâmetros para Transformação.
+[Resolução PR n° 22, de 21 de Julho de 1983](https://esteio.com.br/downloads/legislacao/LEGISLA\_RESOLUCAO\_D.pdf). [Decreto-Lei n° 2267 regulamenta o Decreto-Lei n.° 1.177, de 21 de junho de 1971](https://esteio.com.br/downloads/legislacao/LEGISLA\_DECRETO\_2267\_D.pdf). Estabelece as Especificações e Normas Gerais para Levantamentos Geodésicos em território brasileiro e efetua alteração no Apêndice II da Resolução da Presidência do IBGE N° 22, de 21/07/83, relacionada a Parâmetros para Transformação.
 
-[Decreto-Lei n° 1.177, de 21 de Junho de 1971](https://esteio.com.br/downloads/legislacao/_decreto-lei1177.pdf) Dispõe sobre aerolevantamentos no território nacional e dá outras providências.
+[Decreto-Lei n° 1.177, de 21 de Junho de 1971](https://esteio.com.br/downloads/legislacao/\_decreto-lei1177.pdf) Dispõe sobre aerolevantamentos no território nacional e dá outras providências.
 
 [Decreto-Lei n° 243, de 28 de fevereiro de 1967](https://esteio.com.br/downloads/legislacao/decreto243.pdf). Fixa as Diretrizes e Bases da Cartografia Brasileira e dá outras providências.
 
 ### Constituição Federal
 
-[Constituição Federal \(referências à cartografia\)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=17).
+[Constituição Federal (referências à cartografia)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=17).
 
-[**Nota Técnica Término do Período de Transição para Adoção no Brasil do Sistema de  
-Referência Geocêntrico para as Américas \(SIRGAS\)**](https://github.com/ErisonBarros/LegislacaoTerritorial/tree/06f563af397433629d62943e2a6e12dd3e190b8a/webcache.googleusercontent.com/search?q=cache:cTJ55ef27OcJ:ftp:/geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/normas/nota_tecnica_termino_periodo_transicao_sirgas2000.pdf%20&cd=1&hl=pt-BR&ct=clnk&gl=br) Procedimentos para migração de coordenadas geodésicas e de produtos cartográficos  
+[**Nota Técnica Término do Período de Transição para Adoção no Brasil do Sistema de**\
+**Referência Geocêntrico para as Américas (SIRGAS)**](https://github.com/ErisonBarros/LegislacaoTerritorial/tree/06f563af397433629d62943e2a6e12dd3e190b8a/webcache.googleusercontent.com/search?q=cache:cTJ55ef27OcJ:ftp:/geoftp.ibge.gov.br/metodos\_e\_outros\_documentos\_de\_referencia/normas/nota\_tecnica\_termino\_periodo\_transicao\_sirgas2000.pdf%20\&cd=1\&hl=pt-BR\&ct=clnk\&gl=br) Procedimentos para migração de coordenadas geodésicas e de produtos cartográficos\
 referenciados aos sistemas Córrego Alegre, SAD 69, WGS 84 para o SIRGAS2000.
 
-[**Resolução da Presidente do IBGE Nº 1/2015**](http://geoftp.ibge.gov.br/metodos_e_outros_documentos_de_referencia/normas/rpr_01_25fev2005.pdf) Define a data de término do período de transição definido na RPR 01/2005 e dá outras  
+[**Resolução da Presidente do IBGE Nº 1/2015**](http://geoftp.ibge.gov.br/metodos\_e\_outros\_documentos\_de\_referencia/normas/rpr\_01\_25fev2005.pdf) Define a data de término do período de transição definido na RPR 01/2005 e dá outras\
 providências sobre a transformação entre os referenciais geodésicos adotados no Brasil.
 
-[**Decreto Nº 5.334 de 6 de janeiro de 2005**](http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Decreto/D5334.htm#:~:text=D%C3%A1%20nova%20reda%C3%A7%C3%A3o%20ao%20art.&text=22%20do%20Decreto%20n%C2%BA%2089.817,Normas%20T%C3%A9cnicas%20da%20Cartografia%20Nacional.) Dá nova redação ao art. 21 e revoga o art. 22 do [Decreto no 89.817, de 20 de junho de 1984](http://www.planalto.gov.br/ccivil_03/decreto/1980-1989/D89817.htm#:~:text=Estabelece%20as%20Instru%C3%A7%C3%B5es%20Reguladoras%20das%20Normas%20T%C3%A9cnicas%20da%20Cartografia%20Nacional.), que estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacional.
+[**Decreto Nº 5.334 de 6 de janeiro de 2005**](http://www.planalto.gov.br/ccivil\_03/\_Ato2004-2006/2005/Decreto/D5334.htm) Dá nova redação ao art. 21 e revoga o art. 22 do [Decreto no 89.817, de 20 de junho de 1984](http://www.planalto.gov.br/ccivil\_03/decreto/1980-1989/D89817.htm), que estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacional.
 
-[**IBGE Resoluções 22 e 23 \(21 de junho de 1983 e Alteração de 27 de fevereiro de 1989\)**](https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/sirgas/16691-projeto-mudanca-do-referencial-geodesico-pmrg.html?=&t=o-que-e)
+[**IBGE Resoluções 22 e 23 (21 de junho de 1983 e Alteração de 27 de fevereiro de 1989)**](https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/sirgas/16691-projeto-mudanca-do-referencial-geodesico-pmrg.html?=\&t=o-que-e)
 
 Estabelece as Especificações e Normas Gerais para Levantamentos Geodésicos em território brasileiro e efetua alteração no Apêndice II da Resolução da Presidência do IBGE Nº 22, de 21/07/83, relacionada a Parâmetros para Transformação.
 
-**IBGE Resolução N° 5 \(31 de março de 1993\)**  
+**IBGE Resolução N° 5 (31 de março de 1993)**\
 Estabelece as Especificações e Normas Gerais para Levantamentos GPS: versão preliminar, a serem empregadas em território brasileiro.
 
-[**Decreto s/n°, de 21 de Junho de 1994**](https://esteio.com.br/downloads/legislacao/LEGISLA_CONCAR_1994_D.pdf) Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, inciso IV e VI, da Constituição, e de acordo como o art. 4º da Lei nº 8490.
+[**Decreto s/n°, de 21 de Junho de 1994**](https://esteio.com.br/downloads/legislacao/LEGISLA\_CONCAR\_1994\_D.pdf) Cria a Comissão Nacional de Cartografia - CONCAR, e dá outras providências. O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, inciso IV e VI, da Constituição, e de acordo como o art. 4º da Lei nº 8490.
 
 ### Normas e Especificações Técnicas
 
-* [Norma de Execução n°105, de 26 de novembro de 2012 para certificação de Imóveis Rurais](https://esteio.com.br/downloads/legislacao/norma_aprovacao_incra.pdf)
-* [Nota Técnica/INCRA/DFG/N° 01/2010, de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/nota_tecnica_dfg_01_2010.pdf)
-* [Norma Técnica para Georreferenciamento de Imóveis Rurais \(2ª Edição\) – 02/2010](https://esteio.com.br/downloads/legislacao/norma_tecnica_georreferenciamento.pdf)
-* [Norma de execução INCRA/DF/N° 92 de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/NE_92_DF.pdf)
-* [Especificação Técnica para a Aquisição de Dados Geoespaciais Vetoriais \(ET-ADGV v1.0\) – 02/2009](https://esteio.com.br/downloads/legislacao/ADGV_FINAL_18_02_09_final_2.pdf)
-* [Manual de Padronização dos Marcos Geodésicos – 08/2008](https://esteio.com.br/downloads/legislacao/padronizacao_marcos_geodesicos.pdf)
+* [Norma de Execução n°105, de 26 de novembro de 2012 para certificação de Imóveis Rurais](https://esteio.com.br/downloads/legislacao/norma\_aprovacao\_incra.pdf)
+* [Nota Técnica/INCRA/DFG/N° 01/2010, de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/nota\_tecnica\_dfg\_01\_2010.pdf)
+* [Norma Técnica para Georreferenciamento de Imóveis Rurais (2ª Edição) – 02/2010](https://esteio.com.br/downloads/legislacao/norma\_tecnica\_georreferenciamento.pdf)
+* [Norma de execução INCRA/DF/N° 92 de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/NE\_92\_DF.pdf)
+* [Especificação Técnica para a Aquisição de Dados Geoespaciais Vetoriais (ET-ADGV v1.0) – 02/2009](https://esteio.com.br/downloads/legislacao/ADGV\_FINAL\_18\_02\_09\_final\_2.pdf)
+* [Manual de Padronização dos Marcos Geodésicos – 08/2008](https://esteio.com.br/downloads/legislacao/padronizacao\_marcos\_geodesicos.pdf)
 * [Resolução CONCAR 01/2006](http://www.concar.gov.br/detalheDocumentos.aspx?cod=23)
-* [Normas Técnicas da Cartografia Nacional \(Decreto n° 89.817, de 20 de Junho de 1984\)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=8)
-* [Especificações Gerais e Padronização para Elaboração das Normas Cartográficas Brasileiras \(NCB – CC/G 0001/84\)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=21)
-* [Especificações e Normas Gerais para Levantamentos Geodésicos em Território Nacional \(IBGE Resolução PR n° 22, de 21 de julho de 1983\)](https://esteio.com.br/downloads/legislacao/bservico1602.pdf)
+* [Normas Técnicas da Cartografia Nacional (Decreto n° 89.817, de 20 de Junho de 1984)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=8)
+* [Especificações Gerais e Padronização para Elaboração das Normas Cartográficas Brasileiras (NCB – CC/G 0001/84)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=21)
+* [Especificações e Normas Gerais para Levantamentos Geodésicos em Território Nacional (IBGE Resolução PR n° 22, de 21 de julho de 1983)](https://esteio.com.br/downloads/legislacao/bservico1602.pdf)
 
 ### Normas Técnicas de Topografia
 
@@ -97,35 +91,35 @@ Estabelece as Especificações e Normas Gerais para Levantamentos GPS: versão p
 
 ### **Coletânea de Normas e Medidas Provisórias**
 
-[**Resolução Nº 4.427 de 25 de junho de 2015 do Banco Central**](https://www.bcb.gov.br/pre/normativos/res/2015/pdf/res_4427_v1_O.pdf)
+[**Resolução Nº 4.427 de 25 de junho de 2015 do Banco Central**](https://www.bcb.gov.br/pre/normativos/res/2015/pdf/res\_4427\_v1\_O.pdf)
 
 [Medida Provisória n° 1.498-19, de 9 de Julho de 1996](http://www.concar.gov.br/detalheDocumentos.aspx?cod=14). [https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf](https://biblioteca.ibge.gov.br/visualizacao/livros/liv25313.pdf)
 
-[Norma de Execução n°105, de 26 de novembro de 2012 para certificação de Imóveis Rurais](https://esteio.com.br/downloads/legislacao/norma_aprovacao_incra.pdf)
+[Norma de Execução n°105, de 26 de novembro de 2012 para certificação de Imóveis Rurais](https://esteio.com.br/downloads/legislacao/norma\_aprovacao\_incra.pdf)
 
-[Nota Técnica/INCRA/DFG/N° 01/2010, de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/nota_tecnica_dfg_01_2010.pdf)
+[Nota Técnica/INCRA/DFG/N° 01/2010, de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/nota\_tecnica\_dfg\_01\_2010.pdf)
 
-[Norma Técnica para Georreferenciamento de Imóveis Rurais \(2ª Edição\) – 02/2010](https://esteio.com.br/downloads/legislacao/norma_tecnica_georreferenciamento.pdf)
+[Norma Técnica para Georreferenciamento de Imóveis Rurais (2ª Edição) – 02/2010](https://esteio.com.br/downloads/legislacao/norma\_tecnica\_georreferenciamento.pdf)
 
-[Norma de execução INCRA/DF/N° 92 de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/NE_92_DF.pdf)
+[Norma de execução INCRA/DF/N° 92 de 22 de Fevereiro de 2010](https://esteio.com.br/downloads/legislacao/NE\_92\_DF.pdf)
 
-[Especificação Técnica para a Aquisição de Dados Geoespaciais Vetoriais \(ET-ADGV v1.0\) – 02/2009](https://esteio.com.br/downloads/legislacao/ADGV_FINAL_18_02_09_final_2.pdf)
+[Especificação Técnica para a Aquisição de Dados Geoespaciais Vetoriais (ET-ADGV v1.0) – 02/2009](https://esteio.com.br/downloads/legislacao/ADGV\_FINAL\_18\_02\_09\_final\_2.pdf)
 
-[Manual de Padronização dos Marcos Geodésicos – 08/2008](https://esteio.com.br/downloads/legislacao/padronizacao_marcos_geodesicos.pdf)
+[Manual de Padronização dos Marcos Geodésicos – 08/2008](https://esteio.com.br/downloads/legislacao/padronizacao\_marcos\_geodesicos.pdf)
 
 [Resolução CONCAR 01/2006](http://www.concar.gov.br/detalheDocumentos.aspx?cod=23)
 
-[Normas Técnicas da Cartografia Nacional \(Decreto n° 89.817, de 20 de Junho de 1984\)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=8)
+[Normas Técnicas da Cartografia Nacional (Decreto n° 89.817, de 20 de Junho de 1984)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=8)
 
-[Especificações Gerais e Padronização para Elaboração das Normas Cartográficas Brasileiras \(NCB – CC/G 0001/84\)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=21)
+[Especificações Gerais e Padronização para Elaboração das Normas Cartográficas Brasileiras (NCB – CC/G 0001/84)](http://www.concar.gov.br/detalheDocumentos.aspx?cod=21)
 
-[Especificações e Normas Gerais para Levantamentos Geodésicos em Território Nacional \(IBGE Resolução PR n° 22, de 21 de julho de 1983\)](https://esteio.com.br/downloads/legislacao/bservico1602.pdf)
+[Especificações e Normas Gerais para Levantamentos Geodésicos em Território Nacional (IBGE Resolução PR n° 22, de 21 de julho de 1983)](https://esteio.com.br/downloads/legislacao/bservico1602.pdf)
 
 ### Textos e Manuais do IBGE
 
-[Apostila de Noções Básicas de Cartografia](http://www.ufsm.br/cartografia/images/stories/imagens/aula/nocoes_basicas_cartografia.pdf) A presente apostila foi elaborada tendo como objetivo não só servir como parâmetro de orientação para o Curso de Noções Básicas de Cartografia, onde profissionais das mais diversas áreas que utilizam direta ou indiretamente a Cartografia ou um produto cartográfico como ferramenta de trabalho no desenvolvimento de suas atividades, possam conhecer todas as etapas que compreendem o mapeamento, mas também voltada aos profissionais do Departamento de Cartografia, propiciando melhor entendimento das fases que antecedem e precedem o seu trabalho. Visando ainda alcançar a leitores com pouco ou nenhum conhecimento cartográfico, os temas foram abordados de forma objetiva, cabendo aos que desejarem maiores detalhes, uma vasta bibliografia à qual poderão recorrer, parte dela utilizada na compilação desta apostila.
+[Apostila de Noções Básicas de Cartografia](http://www.ufsm.br/cartografia/images/stories/imagens/aula/nocoes\_basicas\_cartografia.pdf) A presente apostila foi elaborada tendo como objetivo não só servir como parâmetro de orientação para o Curso de Noções Básicas de Cartografia, onde profissionais das mais diversas áreas que utilizam direta ou indiretamente a Cartografia ou um produto cartográfico como ferramenta de trabalho no desenvolvimento de suas atividades, possam conhecer todas as etapas que compreendem o mapeamento, mas também voltada aos profissionais do Departamento de Cartografia, propiciando melhor entendimento das fases que antecedem e precedem o seu trabalho. Visando ainda alcançar a leitores com pouco ou nenhum conhecimento cartográfico, os temas foram abordados de forma objetiva, cabendo aos que desejarem maiores detalhes, uma vasta bibliografia à qual poderão recorrer, parte dela utilizada na compilação desta apostila.
 
-[Manual de normas especificações e procedimentos técnicos para Carta Internacional do Mundo ao milionésimo](http://www.ufsm.br/cartografia/images/stories/imagens/aula/Manual%20de%20normas%20especificacoes%20e%20procedimentos%20tecnicos%20para%20Carta%20Internacional%20do%20Mundo%20ao%20milionesimo.pdf) IBGE. Manual de normas, especificações e procedimentos técnicos para a carta Internacional do Mundo, ao milionésimo. CIM 1:1.000.000. Manuais Técnicos em geociências, n. 2, 1993. O presente Manual de Normas, Especificações e Procedimentos Técnicos para o conjunto de folhas da Carta Internacional do Mundo ao Milionésimo, da Série Manuais Técnicos em Geociências – número 2, visa a uniformizar os procedimentos para a elaboração de originais na escala 1:1 000 000, no que concerne à representação do espaço geográfico, destacando-se a hidrografia, altimetria e elementos planimétricos de maior relevância para a sua caracterização material e social. [Manual Técnico de Uso da Terra](http://www.ufsm.br/cartografia/images/stories/imagens/aula/manual_uso_da_terra.pdf)
+[Manual de normas especificações e procedimentos técnicos para Carta Internacional do Mundo ao milionésimo](http://www.ufsm.br/cartografia/images/stories/imagens/aula/Manual%20de%20normas%20especificacoes%20e%20procedimentos%20tecnicos%20para%20Carta%20Internacional%20do%20Mundo%20ao%20milionesimo.pdf) IBGE. Manual de normas, especificações e procedimentos técnicos para a carta Internacional do Mundo, ao milionésimo. CIM 1:1.000.000. Manuais Técnicos em geociências, n. 2, 1993. O presente Manual de Normas, Especificações e Procedimentos Técnicos para o conjunto de folhas da Carta Internacional do Mundo ao Milionésimo, da Série Manuais Técnicos em Geociências – número 2, visa a uniformizar os procedimentos para a elaboração de originais na escala 1:1 000 000, no que concerne à representação do espaço geográfico, destacando-se a hidrografia, altimetria e elementos planimétricos de maior relevância para a sua caracterização material e social. [Manual Técnico de Uso da Terra](http://www.ufsm.br/cartografia/images/stories/imagens/aula/manual\_uso\_da\_terra.pdf)
 
 Com este lançamento, o IBGE traz a público o Manual técnico de uso da terra cuja nova edição, atualizada e modificada, oferece uma perspectiva sintonizada com as questões contemporâneas, e propõe uma base conceitual voltada para a observação e síntese do conjunto e das particularidades do uso da terra orientadas segundo a distribuição geográfica dos recursos, da sua apropriação social e das transformações ambientais, apresentando, ademais, os procedimentos técnicos de levantamento e mapeamento compatíveis com esse novo olhar sobre o tema.
 
@@ -139,13 +133,12 @@ O processamento digital de imagens e os sistemas de informação geográfica con
 
 #### Vídeos
 
-**INDE** [https://www.youtube.com/watch?v=AH41BRy6fd0&ab\_channel=Minist%C3%A9riodaEconomia](https://www.youtube.com/watch?v=AH41BRy6fd0&ab_channel=Minist%C3%A9riodaEconomia)
+**INDE** [https://www.youtube.com/watch?v=AH41BRy6fd0\&ab\_channel=Minist%C3%A9riodaEconomia](https://www.youtube.com/watch?v=AH41BRy6fd0\&ab\_channel=Minist%C3%A9riodaEconomia)
 
-[https://www.youtube.com/watch?v=fup9Fr0Rvfo&ab\_channel=Geopublica](https://www.youtube.com/watch?v=fup9Fr0Rvfo&ab_channel=Geopublica)
+[https://www.youtube.com/watch?v=fup9Fr0Rvfo\&ab\_channel=Geopublica](https://www.youtube.com/watch?v=fup9Fr0Rvfo\&ab\_channel=Geopublica)
 
-[https://www.youtube.com/watch?v=unpz5oYwmyM&ab\_channel=SistemaLABGISUERJ](https://www.youtube.com/watch?v=unpz5oYwmyM&ab_channel=SistemaLABGISUERJ)
+[https://www.youtube.com/watch?v=unpz5oYwmyM\&ab\_channel=SistemaLABGISUERJ](https://www.youtube.com/watch?v=unpz5oYwmyM\&ab\_channel=SistemaLABGISUERJ)
 
-[https://www.youtube.com/watch?v=5dQGHtGJkog&ab\_channel=GraziCarvalho](https://www.youtube.com/watch?v=5dQGHtGJkog&ab_channel=GraziCarvalho)
+[https://www.youtube.com/watch?v=5dQGHtGJkog\&ab\_channel=GraziCarvalho](https://www.youtube.com/watch?v=5dQGHtGJkog\&ab\_channel=GraziCarvalho)
 
-[https://www.youtube.com/watch?v=87mlIgFeMjg&ab\_channel=EscoladeGovernodoEstadodeS%C3%A3oPaulo-Egesp](https://www.youtube.com/watch?v=87mlIgFeMjg&ab_channel=EscoladeGovernodoEstadodeS%C3%A3oPaulo-Egesp) 
-
+[https://www.youtube.com/watch?v=87mlIgFeMjg\&ab\_channel=EscoladeGovernodoEstadodeS%C3%A3oPaulo-Egesp](https://www.youtube.com/watch?v=87mlIgFeMjg\&ab\_channel=EscoladeGovernodoEstadodeS%C3%A3oPaulo-Egesp)
