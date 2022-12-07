@@ -8,8 +8,6 @@ description: Prof. Erison Rosa de Oliveira Barros
 
 # Plano de Aula
 
-## Plano de Aula
-
 #### OBJETIVOS <a href="#user-content-objetivos" id="user-content-objetivos"></a>
 
 1. Fornecer aos alunos os conhecimentos necessários referentes a legislação territorial;
