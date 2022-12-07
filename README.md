@@ -29,7 +29,7 @@ description: Prof. Erison Rosa de Oliveira Barros
 Aulas espositivas presenciais, desenvolvidas em ambiente web ou Power Point. Aulas serão dsiponibilizadas no Google sala de Aula. O professor apresentará a parte teórica e esclarecerá sobre estudos e os trabalhos .As aula terão carga horária de 4 horas/aulas por semana. Os  alunos deverão complementar estudos e resolver os trabalhos propostos nas aulas presenciais e previstos nos plano de trabalho. Essas atividades serão passadas através de sala de aula utilizando a ferramenta Google Sala de Aula\
 
 
-#### EMENTA <a href="#ementera" id="ementera"></a>
+## EMENTA <a href="#ementera" id="ementera"></a>
 
 Aulas expositivas da parte teórica e expositivas comteplaram:
 
@@ -38,18 +38,18 @@ Aulas expositivas da parte teórica e expositivas comteplaram:
 * [Legislação Ambiental](https://github.com/ErisonBarros/LegislacaoTerritorial/blob/master/Legisla%C3%A7%C3%A3o%20Ambiental.md)
 * Normas técnicas.
 
-#### Contéudo Programatico
+## Contéudo Programatico
 
 ´[Contéudo Programático](https://colab.research.google.com/github/ErisonBarros/LegislacaoTerritorial/blob/master/Summary.ipynb#scrollTo=Waq9aYs1J2K-)
 
-#### FORMAS DE AVALIAÇÃO <a href="#user-content-formas-de-avaliacao" id="user-content-formas-de-avaliacao"></a>
+## FORMAS DE AVALIAÇÃO <a href="#user-content-formas-de-avaliacao" id="user-content-formas-de-avaliacao"></a>
 
-1º E.E.:
+### 1º Unidade
 
-a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 1,3,4 e 5 da Ementa (Peso 4)\
-b. Seminário em Grupo sobre Proposta de Parcelamento de uma propriedade Rural para fins de assentamento da reforma agrária baseado na legislação e no conteúdo Ministrado , analise individual no aluno na apresentação ( Peso 6);
+a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens da Ementa (Peso 4)\
+b. Seminário em grupo ou individual sobre alguma ementa da disciplina ( Peso 6);
 
-2ºE.E.:
+### 2ºUnidade
 
 a. Atividades no Google Classroom a partir de Google Formulário sobre os Itens 2,6,7 e 8 da Ementa (Peso 4)\
 b. Seminário em Grupo sobre Proposta de Parcelamento de uma Gleba Urbana para fins de aprovação de um projeto de Loteamento baseado na legislação e no conteúdo ministrado , analise individual no aluno na apresentação ( Peso 6);
