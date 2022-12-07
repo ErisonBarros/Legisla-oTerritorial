@@ -16,8 +16,6 @@ Ocorre quando há relação jurídica com o antecessor. Existe transmissão da p
 
 ## Classificam-se como:
 
-### 
-
 * Da Usucapião;
 * Da Aquisição pelo Registro do Título;
 * Da Aquisição por Acessão
@@ -30,36 +28,34 @@ Suas determinações de posse através daquele que entrar com recursos variam de
 
 ## Elementos da Usucapião
 
-* Posse \(mansa, pacífica, ininterrupta e contínua\)
-* SEMPRE Animus domini \(comportamento de dono\)
-* SEMPRE Justo título \(ex.: promessa de compra e venda\) Boa-fé
-* SEMPRE Justo título \(ex.: promessa de compra e venda\) Boa-fé \(desconhecimento de vício impeditivo\) Requisitos especiais \(moradia, função econômica, ...\)
+* Posse (mansa, pacífica, ininterrupta e contínua)
+* SEMPRE Animus domini (comportamento de dono)
+* SEMPRE Justo título (ex.: promessa de compra e venda) Boa-fé
+* SEMPRE Justo título (ex.: promessa de compra e venda) Boa-fé (desconhecimento de vício impeditivo) Requisitos especiais (moradia, função econômica, ...)
 
 ## Quais são os tipos de usucapião?
 
 ### Bens Imóveis :
 
-{% embed url="https://www.mindmeister.com/pt/1763467735?t=Jwtr5bA4yh\#" %}
+{% embed url="https://www.mindmeister.com/pt/1763467735?t=Jwtr5bA4yh#" %}
 
+– Extraordinária;
 
+\-Bens Imóveis
 
-– Extraordinária; 
+– Ordinária;
 
--Bens Imóveis 
+\-Especial Rural;
 
-– Ordinária; 
+\-Especial Urbana;
 
--Especial Rural; 
+\-Familiar;
 
--Especial Urbana; 
+\-Especial Coletiva;
 
--Familiar; 
+\-Extrajudicial;
 
--Especial Coletiva; 
-
--Extrajudicial; 
-
--Bens Móveis \(Extraordinária e Ordinária\).
+\-Bens Móveis (Extraordinária e Ordinária).
 
 ## Usucapião Extraordinária
 
@@ -87,13 +83,13 @@ A usucapião coletiva é prevista no artigo 10 do Estatuto da Cidade. Nele, cons
 
 ## Usucapião Familiar
 
-•Usucapião Familiar é o artigo que prevê a posse da propriedade de até 250 metros quadrados, dividida com um ex-cônjuge ou ex-companheiro, no caso de o mesmo ter abandonado o lar. É necessária a posse do imóvel durante dois anos, ininterruptamente e sem oposição, utilizando o mesmo para moradia própria ou de sua família.•É necessário, também, que aquele que pretende o apossar não possua outro imóvel qualquer. O recurso é previsto no artigo 1240-A do Código Civil, sendo acrescentado pela [Lei n° 12.424/11](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12424.htm).
+•Usucapião Familiar é o artigo que prevê a posse da propriedade de até 250 metros quadrados, dividida com um ex-cônjuge ou ex-companheiro, no caso de o mesmo ter abandonado o lar. É necessária a posse do imóvel durante dois anos, ininterruptamente e sem oposição, utilizando o mesmo para moradia própria ou de sua família.•É necessário, também, que aquele que pretende o apossar não possua outro imóvel qualquer. O recurso é previsto no artigo 1240-A do Código Civil, sendo acrescentado pela [Lei n° 12.424/11](http://www.planalto.gov.br/ccivil\_03/\_Ato2011-2014/2011/Lei/L12424.htm).
 
 ## Usucapião de Bens Móveis
 
-A Usucapião de Bens Móveis é a posse de um bem móvel por uso constante e ininterrupto, sem oposição. Este se divide entre Usucapião de Bens Móveis Ordinária e Extraordinária: 
+A Usucapião de Bens Móveis é a posse de um bem móvel por uso constante e ininterrupto, sem oposição. Este se divide entre Usucapião de Bens Móveis Ordinária e Extraordinária:
 
-A Ordinária é a posse de um bem móvel durante 3 anos, de forma contínua e incontestadamente, incluindo os casos de justo título e boa-fé. Já a Extraordinária é a posse de um bem móvel durante 5 anos, de forma contínua e sem oposição, sendo esta independente de boa fé e justo título. 
+A Ordinária é a posse de um bem móvel durante 3 anos, de forma contínua e incontestadamente, incluindo os casos de justo título e boa-fé. Já a Extraordinária é a posse de um bem móvel durante 5 anos, de forma contínua e sem oposição, sendo esta independente de boa fé e justo título.
 
 Os dois são previstos no artigo 1260 e 1261 do Código Civil, respectivamente.
 
@@ -101,7 +97,7 @@ Os dois são previstos no artigo 1260 e 1261 do Código Civil, respectivamente.
 
 ![](../.gitbook/assets/imagem1.png)
 
-A aquisição da propriedade imóvel pelo registro do título é a transferência entre vivos da propriedade mediante o registro do título translativo no Registro de Imóveis competente. Enquanto não se registrar o título, que deve ser público, o alienante continua a ser havido como dono do imóvel. O registro torna-se eficaz no momento da apresentação do título ao oficial do registro e assim que este prenotar no protocolo que é a chave do registro geral. Se o teor do registro não exprimir a verdade, poderá o interessado reclamar que se retifique ou anule. \( Cancelado o registro cabe ação de reivindicação de imóvel independente de boa fé ou justo título. \( Direito de Sequela\).
+A aquisição da propriedade imóvel pelo registro do título é a transferência entre vivos da propriedade mediante o registro do título translativo no Registro de Imóveis competente. Enquanto não se registrar o título, que deve ser público, o alienante continua a ser havido como dono do imóvel. O registro torna-se eficaz no momento da apresentação do título ao oficial do registro e assim que este prenotar no protocolo que é a chave do registro geral. Se o teor do registro não exprimir a verdade, poderá o interessado reclamar que se retifique ou anule. ( Cancelado o registro cabe ação de reivindicação de imóvel independente de boa fé ou justo título. ( Direito de Sequela).
 
 Acessão é o aumento do volume ou do valor da coisa principal, em virtude de um elemento externo. A Acessão é modalidade de aquisição de propriedade dividida em cinco espécies:
 
@@ -115,23 +111,23 @@ Acessão é o aumento do volume ou do valor da coisa principal, em virtude de um
 
 O artigo 1249 do Código Civil dispõe: “As ilhas que se formarem em correntes comuns ou particulares pertencem aos proprietários ribeirinhos fronteiros, observadas as regras seguintes:
 
-I - as que se formarem no meio do rio consideram-se acréscimos sobrevindos aos terrenos ribeirinhos fronteiros de ambas as margens, na proporção de suas testadas, até a linha que dividir o álveo em duas partes iguais;  
-  
- II - as que se formarem entre a referida linha e uma das margens consideram-se acréscimos aos terrenos ribeirinhos fronteiros desse mesmo lado;  
-  
- III - as que se formarem pelo desdobramento de um novo braço do rio continuam a pertencer aos proprietários dos terrenos à custa dos quais se constituíram.”  
-  
- Vale lembrar , que de acordo com o código das águas, se as correntes forem navegáveis, trata-se de águas públicas, e portanto a regras do código civil que dizem respeito a aquisição de propriedade por acessão aplicam-se aos rios não navegáveis.
+I - as que se formarem no meio do rio consideram-se acréscimos sobrevindos aos terrenos ribeirinhos fronteiros de ambas as margens, na proporção de suas testadas, até a linha que dividir o álveo em duas partes iguais;
+
+II - as que se formarem entre a referida linha e uma das margens consideram-se acréscimos aos terrenos ribeirinhos fronteiros desse mesmo lado;
+
+III - as que se formarem pelo desdobramento de um novo braço do rio continuam a pertencer aos proprietários dos terrenos à custa dos quais se constituíram.”
+
+Vale lembrar , que de acordo com o código das águas, se as correntes forem navegáveis, trata-se de águas públicas, e portanto a regras do código civil que dizem respeito a aquisição de propriedade por acessão aplicam-se aos rios não navegáveis.
 
 ## Acessão por aluvião:
 
 Art. 1.250:.”Os acréscimos formados, sucessiva e imperceptivelmente, por depósitos e aterros naturais ao longo das margens das correntes, ou pelo desvio das águas destas, pertencem aos donos dos terrenos marginais, sem indenização.
 
-Parágrafo único. O terreno aluvial, que se formar em frente de prédios de proprietários diferentes, dividir-se-á entre eles, na proporção da testada de cada um sobre a antiga margem”  
-  
- O que caracteriza o aluvião é o fato de o acréscimo feito pelo rio à margem ser de tal modo lento que se torna impossível precisar a quantidade acrescida no momento anterior.  
-  
- Por analogia, se resolve o problema do aluvião com a regra de que o acessório acompanha o principal.
+Parágrafo único. O terreno aluvial, que se formar em frente de prédios de proprietários diferentes, dividir-se-á entre eles, na proporção da testada de cada um sobre a antiga margem”
+
+O que caracteriza o aluvião é o fato de o acréscimo feito pelo rio à margem ser de tal modo lento que se torna impossível precisar a quantidade acrescida no momento anterior.
+
+Por analogia, se resolve o problema do aluvião com a regra de que o acessório acompanha o principal.
 
 Conceito Jurídico – código das águas - “Art. 16. Constituem "aluvião" os acréscimos que sucessiva e imperceptivelmente se formarem para a parte do mar e das correntes, aquém do ponto a que chega o preamar médio, ou do ponto médio das enchentes ordinárias, bem como a parte do álveo que se descobrir pelo afastamento das águas.”
 
@@ -139,39 +135,39 @@ Conceito Jurídico – código das águas - “Art. 16. Constituem "aluvião" os
 
 “Verifica-se avulsão quando a força súbita da corrente arranca uma parte considerável e reconhecida de um prédio, arrojando-a sobre outro prédio” – código das águas – art.19.
 
-Art. 1251 do código civil “Quando, por força natural violenta, uma porção de terra se destacar de um prédio e se juntar a outro, o dono deste adquirirá a propriedade do acréscimo, se indenizar o dono do primeiro ou, sem indenização, se, em um ano, ninguém houver reclamado.  
-  
- Parágrafo único. Recusando-se ao pagamento de indenização, o dono do prédio a que se juntou a porção de terra deverá aquiescer a que se remova a parte acrescida”  
-  
- O Diferencial da acessão por avulsão, está na indenização ao primeiro proprietário para aquisição do acréscimo no período de um ano, ou sem indenização se após o prazo ninguém houver reclamado. Entretanto o primeiro proprietário não é obrigado a aceitar a indenização, podendo optar pela remoção da parte acrescida a terreno de outrem.
+Art. 1251 do código civil “Quando, por força natural violenta, uma porção de terra se destacar de um prédio e se juntar a outro, o dono deste adquirirá a propriedade do acréscimo, se indenizar o dono do primeiro ou, sem indenização, se, em um ano, ninguém houver reclamado.
+
+Parágrafo único. Recusando-se ao pagamento de indenização, o dono do prédio a que se juntou a porção de terra deverá aquiescer a que se remova a parte acrescida”
+
+O Diferencial da acessão por avulsão, está na indenização ao primeiro proprietário para aquisição do acréscimo no período de um ano, ou sem indenização se após o prazo ninguém houver reclamado. Entretanto o primeiro proprietário não é obrigado a aceitar a indenização, podendo optar pela remoção da parte acrescida a terreno de outrem.
 
 ## Acessão por álveo abandonado:
 
 Definição de álveo – leito do rio – “Álveo é a superfície que as águas cobrem sem transbordar para o solo natural e ordinariamente enxuto”.Art.9 Código das águas.
 
-Art. 1.252 do C.C. “O álveo abandonado de corrente pertence aos proprietários ribeirinhos das duas margens, sem que tenham indenização os donos dos terrenos por onde as águas abrirem novo curso, entendendo-se que os prédios marginais se estendem até o meio do álveo”  
-  
- Porém se a mudança do curso das águas se der de forma artificial, cabe indenização ao proprietário ofendido.
+Art. 1.252 do C.C. “O álveo abandonado de corrente pertence aos proprietários ribeirinhos das duas margens, sem que tenham indenização os donos dos terrenos por onde as águas abrirem novo curso, entendendo-se que os prédios marginais se estendem até o meio do álveo”
+
+Porém se a mudança do curso das águas se der de forma artificial, cabe indenização ao proprietário ofendido.
 
 ## Construções e plantações:
 
 Elencadas nos artigos 1253 a 1259 do código civil, as construções e plantações são acessões decorrentes da conduta humana.
 
-As construções e plantações são consideradas acessórios do solo. Não se leva em conta o conceito de valor. A presunção é que pertencem ao proprietário do solo, embora não seja essa presunção absoluta. Como é possível semear, plantar e construir com sementes e materiais não pertencentes ao proprietário do solo, distinguem-se as hipóteses nas quais isso pode ocorrer:  
-  
- 1-Semeadura, plantação ou construção em terreno próprio com material alheio – com solução no art. 1254 – “Aquele que semeia, planta ou edifica em terreno próprio com sementes, plantas ou materiais alheios, adquire a propriedade destes; mas fica obrigado a pagar-lhes o valor, além de responder por perdas e danos, se agiu de má-fé.”  
-  
- 2- Semeadura, plantação ou construção em terreno alheio com material próprio - com solução no art.1255 – “Aquele que semeia, planta ou edifica em terreno alheio perde, em proveito do proprietário, as sementes, plantas e construções; se procedeu de boa-fé, terá direito a indenização.
+As construções e plantações são consideradas acessórios do solo. Não se leva em conta o conceito de valor. A presunção é que pertencem ao proprietário do solo, embora não seja essa presunção absoluta. Como é possível semear, plantar e construir com sementes e materiais não pertencentes ao proprietário do solo, distinguem-se as hipóteses nas quais isso pode ocorrer:
 
-Parágrafo único. Se a construção ou a plantação exceder consideravelmente o valor do terreno, aquele que, de boa-fé, plantou ou edificou, adquirirá a propriedade do solo, mediante pagamento da indenização fixada judicialmente, se não houver acordo. 
+1-Semeadura, plantação ou construção em terreno próprio com material alheio – com solução no art. 1254 – “Aquele que semeia, planta ou edifica em terreno próprio com sementes, plantas ou materiais alheios, adquire a propriedade destes; mas fica obrigado a pagar-lhes o valor, além de responder por perdas e danos, se agiu de má-fé.”
 
-Se o semeador, plantador ou construtor agiu de má fé, poderá ser constrangido a repor as coisas no estado em que se estavam e a pagar pelos prejuízos, No entanto se ambos estão de má fé o art. 1256 determina que o proprietário adquira os acréscimos e pague o valor das acessões. 
+2- Semeadura, plantação ou construção em terreno alheio com material próprio - com solução no art.1255 – “Aquele que semeia, planta ou edifica em terreno alheio perde, em proveito do proprietário, as sementes, plantas e construções; se procedeu de boa-fé, terá direito a indenização.
+
+Parágrafo único. Se a construção ou a plantação exceder consideravelmente o valor do terreno, aquele que, de boa-fé, plantou ou edificou, adquirirá a propriedade do solo, mediante pagamento da indenização fixada judicialmente, se não houver acordo.
+
+Se o semeador, plantador ou construtor agiu de má fé, poderá ser constrangido a repor as coisas no estado em que se estavam e a pagar pelos prejuízos, No entanto se ambos estão de má fé o art. 1256 determina que o proprietário adquira os acréscimos e pague o valor das acessões.
 
 Presume-se a má fé do proprietário quando este sabia do trabalho de construção ou lavoura e não o impugnou. Locupletando-se a custa de outrem, este adquirirá a propriedade da acessão mas ficará com encargo de indeniza-la ao construtor ou plantador.
 
-3 - Semeadura, plantação ou construção em terreno alheio com material alheio com solução no art. 1257 – “O disposto no artigo antecedente aplica-se ao caso de não pertencerem as sementes, plantas ou materiais a quem de boa-fé os empregou em solo alheio. 
+3 - Semeadura, plantação ou construção em terreno alheio com material alheio com solução no art. 1257 – “O disposto no artigo antecedente aplica-se ao caso de não pertencerem as sementes, plantas ou materiais a quem de boa-fé os empregou em solo alheio.
 
-Parágrafo único. O proprietário das sementes, plantas ou materiais poderá cobrar do proprietário do solo a indenização devida, quando não puder havê-la do plantador ou construtor” 
+Parágrafo único. O proprietário das sementes, plantas ou materiais poderá cobrar do proprietário do solo a indenização devida, quando não puder havê-la do plantador ou construtor”
 
 Observe que o parágrafo único, obriga primeiramente a cobrança do plantador ou construtor, para posteriormente, caso não consiga receber, cobrar o proprietário
 
@@ -180,6 +176,3 @@ Observe que o parágrafo único, obriga primeiramente a cobrança do plantador o
 ### Fundamento Legal:
 
 Art. 1.258. Se a construção, feita parcialmente em solo próprio, invade solo alheio em proporção não superior à vigésima parte deste, adquire o construtor de boa-fé a propriedade da parte do solo invadido, se o valor da construção exceder o dessa parte, e responde por indenização que represente, também, o valor da área perdida e a desvalorização da área remanescente. Parágrafo único. Pagando em décuplo as perdas e danos previstos neste artigo, o construtor de má-fé adquire a propriedade da parte do solo que invadiu, se em proporção à vigésima parte deste e o valor da construção exceder consideravelmente o dessa parte e não se puder demolir a porção invasora sem grave prejuízo para a construção. Art. 1.259. Se o construtor estiver de boa-fé, e a invasão do solo alheio exceder a vigésima parte deste, adquire a propriedade da parte do solo invadido, e responde por perdas e danos que abranjam o valor que a invasão acrescer à construção, mais o da área perdida e o da desvalorização da área remanescente; se de má-fé, é obrigado a demolir o que nele construiu, pagando as perdas e danos apurados, que serão devidos em dobro
-
-
-

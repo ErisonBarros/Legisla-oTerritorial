@@ -9,8 +9,8 @@
 * [As fundamentações do Direito Registral para Certificação de Imóveis Rurais](i-unidade/as-fundamentacoes-do-direito-registral-para-certificacao-de-imoveis-rurais.md)
 * [Aquisição de Propriedade](i-unidade/aquisicao-de-propriedade.md)
 * [Tipos de Legislação](i-unidade/untitled-1/README.md)
-  * [Coletânea com a Legislação da  Cartografia Nacional](i-unidade/untitled-1/readme4.md)
-  * [Time Line  da Legislação Referente a Cartografia](i-unidade/untitled-1/time-line-da-legislacao-referente-a-cartografia.md)
+  * [Coletânea com a Legislação da Cartografia Nacional](i-unidade/untitled-1/readme4.md)
+  * [Time Line da Legislação Referente a Cartografia](i-unidade/untitled-1/time-line-da-legislacao-referente-a-cartografia.md)
   * [Legislação ambiental](i-unidade/untitled-1/readme2.md)
 * [Direito das Coisas](i-unidade/readme3.md)
 * [Os Bens](i-unidade/readme5/README.md)
@@ -39,9 +39,8 @@
       * [6.1.1. Requerimento sem georreferenciamento da ocupação](ii-unidade/regularizacao-fundiaria-rural/6.-sigef-titucao-o-que-e-e-para-que-serve/6.1.-como-cadastrar-a-solicitacao-no-sigef-titulacao/6.1.1.-requerimento-sem-georreferenciamento-da-ocupacao/README.md)
         * [6.1.2. Requerimento com ocupação georreferenciada e incluída no Sigef:](ii-unidade/regularizacao-fundiaria-rural/6.-sigef-titucao-o-que-e-e-para-que-serve/6.1.-como-cadastrar-a-solicitacao-no-sigef-titulacao/6.1.1.-requerimento-sem-georreferenciamento-da-ocupacao/6.1.2.-requerimento-com-ocupacao-georreferenciada-e-incluida-no-sigef.md)
 
----
+***
 
 * [Legislação para Drones](legislacao-para-drones.md)
-* [Direito Urbanístico](untitled-1.md)
-* [Dos direitos de vizinhança](untitled.md)
-
+* [Direito Urbanístico](direito-urbanistico.md)
+* [Dos direitos de vizinhança](dos-direitos-de-vizinhanca.md)
