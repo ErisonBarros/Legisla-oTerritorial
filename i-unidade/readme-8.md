@@ -4,9 +4,9 @@ Assunto: DIREITO DAS COISAS
 pagina: XX
 ---
 
-# 1. DIREITO DAS COISAS
+# DIREITO DAS COISAS
 
-## 1.1 DIREITO DAS COISAS
+## DIREITO DAS COISAS
 
 **Direito das Coisas:** conjunto de normas regulamentadoras das relações entre pessoas e os bens materiais. A relação do sujeito com a coisa pode ser de: posse e propriedade.
 

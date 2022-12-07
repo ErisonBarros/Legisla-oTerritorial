@@ -5,7 +5,7 @@
 
 ## I UNIDADE
 
-* [1. DIREITO DAS COISAS](i-unidade/readme-8.md)
+* [DIREITO DAS COISAS](i-unidade/readme-8.md)
 * [As fundamentações do Direito Registral para Certificação de Imóveis Rurais](i-unidade/as-fundamentacoes-do-direito-registral-para-certificacao-de-imoveis-rurais.md)
 * [Aquisição de Propriedade](i-unidade/aquisicao-de-propriedade.md)
 * [Tipos de Legislação](i-unidade/untitled-1/README.md)
@@ -44,3 +44,4 @@
 * [Legislação para Drones](legislacao-para-drones.md)
 * [Direito Urbanístico](direito-urbanistico.md)
 * [Dos direitos de vizinhança](dos-direitos-de-vizinhanca.md)
+* [🏁 Legislação Profissional](legislacao-profissional.md)
