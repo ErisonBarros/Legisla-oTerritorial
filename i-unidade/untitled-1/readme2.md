@@ -4,29 +4,31 @@ Nas últimas décadas, impulsionado-se a influência devastadora das ações hum
 
 **Fonte:**
 
-Fonte: \[http: // http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf\] \(http: // http: //r1.ufrrj. br / cfar / d / download / Apostila% 20do% 20curso% 20de% 20Legislacao% 20Ambiental.pdf\)
+Fonte: \[http: // http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf]&#x20;
 
 ## **CONCEITO**
 
-É conjunto de normas jurídicas que se destinam a disciplinar a atividade humana, para torná-la compatível com a proteção do meio ambiente. A legislação ambiental brasileira, para atingir seus objetivos de preservação, criou  **direitos**  e  **deveres**  para o cidadão.
+É conjunto de normas jurídicas que se destinam a disciplinar a atividade humana, para torná-la compatível com a proteção do meio ambiente. A legislação ambiental brasileira, para atingir seus objetivos de preservação, criou **direitos** e **deveres** para o cidadão.
 
 * Lei 9.605 / 98 \* - Uma chamada Lei de Crimes Ambientais. Definir, em seu artigo 60, como crime ambiental passível de detenção, multa ou ambos, cumulativamente, a prática de atividades potencialmente poluidoras sem o devido licenciamento ambiental. Fonte: http: // http: //r1.ufrrj.br/cfar/d/download/Apostila%20do%20curso%20de%20Legislacao%20Ambiental.pdf
 
 ## CONSERVAÇÃO
 
-Uso sustentável dos recursos naturais como o solo, a água, as plantas, os animais e os minerais. A conservação inclui também a manutenção das reservas naturais da fauna autóctona \(do local\), enquanto do ponto de vista cultural inclui uma preservação dos lugares históricos.
+Uso sustentável dos recursos naturais como o solo, a água, as plantas, os animais e os minerais. A conservação inclui também a manutenção das reservas naturais da fauna autóctona (do local), enquanto do ponto de vista cultural inclui uma preservação dos lugares históricos.
 
- **Lei 7.735 / 89**  Artificial sobre a extinção de órgão e entidade autárquica, cria o Instituto Brasileiro de Meio Ambiente e dos Recursos Naturais Renováveis ​​\(IBAMA\) e dá outras providências.
+**Lei 7.735 / 89** Artificial sobre a extinção de órgão e entidade autárquica, cria o Instituto Brasileiro de Meio Ambiente e dos Recursos Naturais Renováveis ​​(IBAMA) e dá outras providências.
 
-![logo-materia-sem-foto](https://github.com/i.ibb.co/5sGH2Sr/logo-materia-sem-foto.png)
+{% embed url="https://youtu.be/7JD6lYTSvyI" %}
+Vídeo
+{% endembed %}
 
- **Lei 9.985 / 00**  Instituição do Sistema Nacional de Unidades de Conservação \(SNUC\).
+**Lei 9.985 / 00** Instituição do Sistema Nacional de Unidades de Conservação (SNUC).
 
- **Unidades de Conservação:**  Conjunto de áreas legais de propriedade pelo poder público, que objetivam a preservação do meio ambiente e das condições naturais de certos espaços territoriais do país.
+**Unidades de Conservação:** Conjunto de áreas legais de propriedade pelo poder público, que objetivam a preservação do meio ambiente e das condições naturais de certos espaços territoriais do país.
 
 “Espaço territorial e seus recursos ambientais, incluindo como águas jurisdicionais, com características naturais relevantes, legalmente instituído pelo Poder Público, com objetivos de conservação e limites definidos, sob regime especial de administração, ao qual se efetua bonificação de proteção.”
 
-> \(Lei nº 9.985, de 18 de julho de 2000, art. 2º, inciso I - SNUC - Sistema Nacional de Unidades de Conservação\)
+> (Lei nº 9.985, de 18 de julho de 2000, art. 2º, inciso I - SNUC - Sistema Nacional de Unidades de Conservação)
 
 As unidades de conservação integrantes do SNUC dividem-se em dois grupos, com características específicas:
 
@@ -34,11 +36,10 @@ As unidades de conservação integrantes do SNUC dividem-se em dois grupos, com 
 
 O grupo das Unidades de Proteção Integral é composto pelas seguintes categorias de unidade de conservação:
 
-* I - Estação Ecológica 
-* II - Reserva Biológica 
-* III - Parque Nacional 
-* IV - Monumento Natural 
+* I - Estação Ecológica
+* II - Reserva Biológica
+* III - Parque Nacional
+* IV - Monumento Natural
 * V - Refúgio de Vida Silvestre
 
 Constituinte do Grupo das Unidades de Uso Sustentável as seguintes unidades de conservação:
-
