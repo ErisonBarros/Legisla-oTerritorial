@@ -4,12 +4,9 @@ description: Prof. Erison Barros
 
 # Google Classroom
 
-_Código da turma:_   **5u6c2or**
+_Código da turma:_ **5u6c2or**
 
- _Link do Meet_      ****[https://meet.google.com/lookup/fhcnqmiask](https://meet.google.com/lookup/fhcnqmiask?authuser=1&hs=179)  
-
-
-
+__[_https://meet.google.com/qvq-abfv-uwd_](https://meet.google.com/qvq-abfv-uwd)__
 
 ## Slides
 
@@ -22,10 +19,3 @@ _Código da turma:_   **5u6c2or**
 {% file src=".gitbook/assets/direito-civil-direito-das-coisas.pdf" %}
 
 {% file src=".gitbook/assets/perguntas-e-resposta-em-direito-urbanistico.pdf" %}
-
-{% file src=".gitbook/assets/posse\_propriedade.pdf" %}
-
-{% file src=".gitbook/assets/estatuto\_cidades.pdf" %}
-
-
-
