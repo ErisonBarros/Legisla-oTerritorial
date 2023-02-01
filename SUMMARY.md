@@ -17,7 +17,7 @@
   * [Tipos de Bens](i-unidade/readme5/readme-7.md)
   * [Bens Públicos existentes no Brasil](i-unidade/readme5/readme-6.md)
 * [Estatuto da Cidade](i-unidade/estatuto-da-cidade.md)
-* [Uso do Solo](i-unidade/readme-10.md)
+* [🏳 Uso do Solo](i-unidade/readme-10.md)
 * [Legislação Territorial](i-unidade/redme.md)
 * [Video sobre Usocapião](i-unidade/welcome-file.2.md)
 * [Legislação Ambiental](i-unidade/legislacao-ambiental.md)

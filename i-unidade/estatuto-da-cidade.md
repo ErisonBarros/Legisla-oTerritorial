@@ -1,68 +1,76 @@
-## Estatuto da Cidade
+# Estatuto da Cidade
+
+### Estatuto da Cidade
 
 Lei Nº 10.257, de 10/07/2001 Medida Provisória Nº 2.220, de 04/09/2001 MP Nº 103, de 01/01/2003 Conselho das Cidades
 
-### DIRETRIZES GERAIS DO ESTATUTO DA CIDADE
+#### DIRETRIZES GERAIS DO ESTATUTO DA CIDADE
 
 A Lei Nº 10.257 de 10 de julho de 2001 – Estatuto da Cidade – regulamenta os artigos 182 e 183 da Constituição Federal de 1988, capítulo relativo à Política Urbana.
 
-### PRINCÍPIOS BÁSICOS
+#### PRINCÍPIOS BÁSICOS
 
 * Interesse público
-* Buscando o bem-estar  coletivo e a justiça social
+* Buscando o bem-estar coletivo e a justiça social
 
 Instrumentos urbanístcos de indução da **FUNÇÃO SOCIAL DA PROPRIEDADE**
 
-“Um bem imóvel, rural ou urbano, cumpre sua funço social quando e utlizado de acordo com as necessidades coletvas e não apenas com o interesse de seu proprietário”. _\(Cartlla Plano Diretor de São Paulo, 2014, p.15\)_
+“Um bem imóvel, rural ou urbano, cumpre sua funço social quando e utlizado de acordo com as necessidades coletvas e não apenas com o interesse de seu proprietário”. _(Cartlla Plano Diretor de São Paulo, 2014, p.15)_
 
-**Ocupação desequilibrada** “Bairros bem planejados inspiram moradores, ao passo que comunidades mal planejadas brutalizam seus cidadãos”. _\(Rogers, 2011\)_
+**Ocupação desequilibrada** “Bairros bem planejados inspiram moradores, ao passo que comunidades mal planejadas brutalizam seus cidadãos”. _(Rogers, 2011)_
 
-1. áreas com boa infraestrutura \(Ociosas\)
-2. áreas de vulnerabilidade urbana e ambiental \(maior\)
+1. áreas com boa infraestrutura (Ociosas)
+2. áreas de vulnerabilidade urbana e ambiental (maior)
 
-### Instrumentos da Polítca Urbana
+#### Instrumentos da Polítca Urbana
 
 * IPTU Progressivo no Tempo
 * Outorga Onerosa do Direito de Construir
-* Transferência do Direito de Construir 
+* Transferência do Direito de Construir
 * ZEIS – Zona Especial de Interesse Social
 * Direito de Preempção
 * Direito de Superfície
-* Consórcio Imobiliário 
+* Consórcio Imobiliário
 * EIV – Estudo de Impacto de Vizinhança
 * Usucapião Especial
 
-## [IPTU Progressivo no Tempo](https://blog.brunoorlandi.com.br/como-funciona-e-para-que-serve-o-iptu-progressivo/)
+### [IPTU Progressivo no Tempo](https://blog.brunoorlandi.com.br/como-funciona-e-para-que-serve-o-iptu-progressivo/)
+
 Consiste no aumento do valor do Imposto Predial e Territorial Urbano (IPTU) cobrado de um imóvel, como sanção pelo descumprimento de condições e prazos para o parcelamento, edificação e utilização compulsória. É instrumento de política urbana, com caráter de sanção de natureza pecuniária.
 
-## [Outorga Onerosa do Direito de Construir](https://wribrasil.org.br/pt/blog/2019/08/o-que-e-outorga-onerosa-do-direito-de-construir)
+### [Outorga Onerosa do Direito de Construir](https://wribrasil.org.br/pt/blog/2019/08/o-que-e-outorga-onerosa-do-direito-de-construir)
+
 A Outorga Onerosa do Direito de Construir nada mais é que uma concessão emitida pelo poder público para que o proprietário do imóvel construa acima do coeficiente básico estabelecido mediante o pagamento de uma contrapartida financeira.
 
-## [Transferência do Direito de Construir (TDC)](https://fau.ufal.br/evento/pluris2016/files/Tema%204%20-%20Planejamento%20Regional%20e%20Urbano/Paper1433.pdf)
+### [Transferência do Direito de Construir (TDC)](https://fau.ufal.br/evento/pluris2016/files/Tema%204%20-%20Planejamento%20Regional%20e%20Urbano/Paper1433.pdf)
+
 A Transferência do Direito de Construir (TDC) é um instrumento urbanístico que tem como objetivo viabilizar a preservação ou implantação de equipamentos e obras de interesse público, a partir da transferência do potencial construtivo para outro imóvel ou comercialização do potencial para outro cidadão.
 
-## [ZEIS – Zona Especial de Interesse Social](https://www.lincolninst.edu/publications/working-papers/zonas-especiais-interesse-social-zeis-em-cidades-brasileiras)
+### [ZEIS – Zona Especial de Interesse Social](https://www.lincolninst.edu/publications/working-papers/zonas-especiais-interesse-social-zeis-em-cidades-brasileiras)
+
 Zonas Especiais de Interesse Social, também chamadas de Áreas Especiais de Interesse Social são áreas demarcadas no território de uma cidade, para assentamentos habitacionais de população de baixa renda. Devem estar previstas no Plano Diretor e demarcadas na Lei de Zoneamento, quando houver
 
-## [Direito de preempção](https://direitoadm.com.br/direito-de-preempcao/#:~:text=Direito%20de%20preemp%C3%A7%C3%A3o%20%C3%A9%20a,de%20aliena%C3%A7%C3%A3o%20onerosa%20entre%20particulares.)
+### [Direito de preempção](https://direitoadm.com.br/direito-de-preempcao/)
+
 Direito de preempção é a preferência que tem o Poder Público municipal para aquisição de imóvel urbano objeto de alienação onerosa entre particulares.
 
-## [Direito de Superfície](https://www.irib.org.br/obras/o-direito-de-superficie-na-legislacao-brasileira#:~:text=O%20direito%20de%20superf%C3%ADcie%20%C3%A9,converter%C3%A1%20o%20direito%20inicialmente%20incorp%C3%B3reo%2C)
+### [Direito de Superfície](https://www.irib.org.br/obras/o-direito-de-superficie-na-legislacao-brasileira)
+
 O direito de superfície é um direito real sobre coisa alheia(lote ou gleba), pois sua formação resulta de uma concessão do titular da propriedade para fins de futura edificação (sobre ou sob o solo) ou plantação, que, quando concretizada pelo superficiário (concessionário), converterá o direito inicialmente incorpóreo, em um bem materialmente autônomo à propriedade do solo do concedente”.
 
-## [Consórcio Imobiliário](https://www.youtube.com/watch?v=ix7GiNf4k1U&ab_channel=RafaelSeabra)
+### [Consórcio Imobiliário](https://www.youtube.com/watch?v=ix7GiNf4k1U\&ab\_channel=RafaelSeabra)
+
 O consórcio imobiliário é uma maneira inteligente e planejada de adquirir o imóvel dos sonhos, terrenos ou lotes, urbanos ou rurais, novos ou usados, residenciais ou comerciais, desde que possuam ficha de matrícula própria.
 
-## [Estudo de Impacto de Vizinhança (EIV)](https://www.caubr.gov.br/wp-content/uploads/2017/10/CAPACIDADES4.pdf)
+### [Estudo de Impacto de Vizinhança (EIV)](https://www.caubr.gov.br/wp-content/uploads/2017/10/CAPACIDADES4.pdf)
+
 O Estudo de Impacto de Vizinhança (EIV), consiste em um instrumento de grande importância para conciliar os interesses do empreendedor com os direitos da população a uma cidade sustentável.
 
+## [Usucapião especial](http://mspadv.com.br/artigos-juridicos/usucapiao-especial-urbana)
 
-# [Usucapião especial](http://mspadv.com.br/artigos-juridicos/usucapiao-especial-urbana#:~:text=A%20usucapi%C3%A3o%20especial%20urbana%20tamb%C3%A9m,moradia%20ou%20de%20sua%20fam%C3%ADlia.)
 A usucapião especial urbana também pode ser denominada de usucapião pro moradia ou usucapião pro misero, uma vez que visa beneficiar o possuidor que não é proprietário de nenhum outro imóvel rural ou urbano e ainda, desde que a área seja utilizada para sua moradia ou de sua família.
 
-
-
-### Conceitos
+#### Conceitos
 
 > **GESTÃO DEMOCRÁTICA**, garantindo a participação da população urbana em todas as decisões de interesse público.
 
@@ -82,7 +90,7 @@ A usucapião especial urbana também pode ser denominada de usucapião pro morad
 
 > **O PLANEJAMENTO** como processo construído a partir da participação permanente dos diferentes grupos sociais.
 
-### Plano Diretor
+#### Plano Diretor
 
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/ferpenna01.png)
 
@@ -131,61 +139,60 @@ O Plano Diretor tem como objetivo garantir o atendimento das necessidades dos mo
 
 ![enter image description here](https://www.ojornalzinho.com.br/wp-content/uploads/2018/02/fer08-300x278.jpg)
 
-[Vídeo](https://www.youtube.com/watch?v=6e7-H_oFbjo&t=92s&ab_channel=PennaArquiteturaeUrbanismo)
+[Vídeo](https://www.youtube.com/watch?v=6e7-H\_oFbjo\&t=92s\&ab\_channel=PennaArquiteturaeUrbanismo)
 
-**Parcelamento, edificação ou utilização compulsórios \(PEUC\)**
+<mark style="color:blue;">**Parcelamento, edificação ou utilização compulsórios (PEUC)**</mark>
 
 Com a aplicação deste instrumento, procura-se otimizar os investimentos públicos realizados e penalizar o uso inadequado, fazendo com que a propriedade cumpra a sua função social. Imposto predial e territorial urbano progressivo no tempo – A idéia é punir com um valor crescente, ano a ano, os proprietários de terrenos cuja ociosidade ou mal aproveitamento acarrete prejuízo à população. Não sendo cumpridas as condições legais para o aproveitamento da área, o Município passará a aumentar, durante 5 anos consecutivos, a alíquota do IPTU, até o limite máximo de 15%.
 
-### A aplicação do PEUC é uma opção ou um dever do município?
+#### <mark style="color:blue;">A aplicação do PEUC é uma opção ou um dever do município?</mark>
 
 * Pode o município simplesmente ignorar as situações de descumprimento da função social da propriedade urbana?
-* A “faculdade” prevista na Constituição de 1988 \(art.182, §4º\) tem a forma de um poder-dever da Administração Pública.
+* A “faculdade” prevista na Constituição de 1988 (art.182, §4º) tem a forma de um poder-dever da Administração Pública.
 * Por isso, o PEUC é obrigatório como conteúdo de todos os planos diretores municipais.
 
-#### Conteúdo mínimo do Plano Diretor em relação ao PEUC
+<mark style="color:blue;">**Conteúdo mínimo do Plano Diretor em relação ao PEUC**</mark>
 
-* Delimitação das áreas urbanas onde poderá ser aplicado o instrumento, considerando a existência de infraestrutura e de demanda para utilização \(art. 42, I, EC\) 
-* Caracterização dos imóveis não edificados, não utilizados e subutilizados \(art. 3º, I, da Resolução 34/2005 do ConCidades\) 
-* Estabelecimento de prazos para cumprimento das obrigações pelos proprietários \(art. 3º, IV, da Resolução 34/2005 do ConCidades\)
+* Delimitação das áreas urbanas onde poderá ser aplicado o instrumento, considerando a existência de infraestrutura e de demanda para utilização (art. 42, I, EC)
+* Caracterização dos imóveis não edificados, não utilizados e subutilizados (art. 3º, I, da Resolução 34/2005 do ConCidades)
+* Estabelecimento de prazos para cumprimento das obrigações pelos proprietários (art. 3º, IV, da Resolução 34/2005 do ConCidades)
 
-“O direito de preempção e os instrumentos de parcelamento, edificação e utilização compulsórios são os mais citados nos planos diretores, mas raramente são regulamentados de forma a garantir sua aplicação” _\(SANTOS JÚNIOR; MONTANDON, 2011, p. 78\)._
+“O direito de preempção e os instrumentos de parcelamento, edificação e utilização compulsórios são os mais citados nos planos diretores, mas raramente são regulamentados de forma a garantir sua aplicação” _(SANTOS JÚNIOR; MONTANDON, 2011, p. 78)._
 
-**Desapropriação com pagamento em títulos da dívida pública.**
+<mark style="color:blue;">**Desapropriação com pagamento em títulos da dívida pública.**</mark>
 
 Usucapião especial de imóvel urbano – O cidadão que ocupar área ou edificação urbana de até 250 m2 para sua moradia ou de sua família, por 5 anos consecutivos, sem que o proprietário a reclame, terá garantido o direito à posse, desde que não seja proprietário de outro imóvel urbano ou rural.
 
-**Direito de superfície –** O proprietário urbano poderá conceder a terceiros o direito de uso da superfície do seu terreno, mediante escritura pública.
+<mark style="color:blue;">**Direito de superfície –**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> O proprietário urbano poderá conceder a terceiros o direito de uso da superfície do seu terreno, mediante escritura pública.
 
-**Direito de preempção:** regularização fundiária; execução de programas e projetos habitacionais de interesse social; constituição de reserva fundiária; ordenamento e direcionamento da expansão urbana; implantação de equipamentos urbanos e comunitários; criação de unidades de conservação ou proteção de outras áreas de interesse ambiental; ou proteção de áreas de interesse histórico, cultural ou paisagístico.
+<mark style="color:blue;">**Direito de preempção:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> regularização fundiária; execução de programas e projetos habitacionais de interesse social; constituição de reserva fundiária; ordenamento e direcionamento da expansão urbana; implantação de equipamentos urbanos e comunitários; criação de unidades de conservação ou proteção de outras áreas de interesse ambiental; ou proteção de áreas de interesse histórico, cultural ou paisagístico.
 
-**Outorga onerosa do direito de construir –** Consiste na possibilidade de o Município estabelecer relação entre a área edificável e a área do terreno, a partir da qual a autorização para construir passaria a ser concedida de forma onerosa.
+<mark style="color:blue;">**Outorga onerosa do direito de construir –**</mark> Consiste na possibilidade de o Município estabelecer relação entre a área edificável e a área do terreno, a partir da qual a autorização para construir passaria a ser concedida de forma onerosa.
 
 O Plano Diretor delimitará as áreas onde o planejamento urbano indicar a possibilidade de maior adensamento populacional e definirá os limites máximos de construção a serem atingidos, considerando a infra-estrutura existente e o potencial de densidade a ser alcançado em cada área.
 
-**Transferência do direito de construir :** implantação de equipamentos urbanos e comunitários; preservação de imóvel de valor histórico, ambiental, paisagístico, social ou cultural; programas de regularização fundiária, urbanização de áreas ocupadas por população de baixa renda e construção de habitações de interesse social.
+<mark style="color:blue;">**Transferência do direito de construir :**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> implantação de equipamentos urbanos e comunitários; preservação de imóvel de valor histórico, ambiental, paisagístico, social ou cultural; programas de regularização fundiária, urbanização de áreas ocupadas por população de baixa renda e construção de habitações de interesse social.
 
-**Estudo de impacto de vizinhança – definir em lei -** Esse Estudo deverá analisar os efeitos do empreendimento ou atividade sobre a qualidade de vida urbana, em especial nos aspectos que terão impactos relacionados:
+<mark style="color:blue;">**Estudo de impacto de vizinhança – definir em lei -**</mark> Esse Estudo deverá analisar os efeitos do empreendimento ou atividade sobre a qualidade de vida urbana, em especial nos aspectos que terão impactos relacionados:
 
 * ao adensamento da população;
 * à capacidade dos equipamentos urbanos e comunitários pré-existentes;
 * ao uso e ocupação do solo;
 * à valorização ou desvalorização dos imóveis na região;
-* à geração de tráfego e aumento da demanda por transporte público; 
-* à ventilação e iluminação das edificações existentes; 
-* à paisagem   urbana; 
-* * ao patrimônio natural e cultural.
+* à geração de tráfego e aumento da demanda por transporte público;
+* à ventilação e iluminação das edificações existentes;
+* à paisagem urbana;
+* ao patrimônio natural e cultural.
 
 > Concessão de uso especial para fins de moradia – Permite a regularização das moradias ilegais para aqueles que possuíam como seu, por 5 anos, até 30 de junho de 2001, até 250 m² de imóvel público situado em área urbana, utilizando-o para sua moradia ou de sua família, desde que não seja proprietário ou concessionário de outro imóvel urbano ou rural.
 
 > As áreas urbanas com mais de 250 m² poderão ser regularizadas mesmo não sendo possível identificar a parcela devida de cada um. Neste caso, a concessão de uso especial para fins de moradia será conferida de forma coletiva. Este instrumento foi vetado no Estatuto da Cidade, sendo posteriormente editado pela Medida Provisória 2.220 e para ser Lei a medida provisória precisa ser votada.
 
-**Consórcio imobiliário –** Mecanismo que viabiliza parcerias entre os proprietários de imóveis e o poder público municipal, onde o proprietário transfere a prefeitura o seu imóvel e, após a realização das obras, recebe lotes, casas ou apartamentos no mesmo valor que o terreno tinha antes das obras.
+<mark style="color:blue;">**Consórcio imobiliário –**</mark> Mecanismo que viabiliza parcerias entre os proprietários de imóveis e o poder público municipal, onde o proprietário transfere a prefeitura o seu imóvel e, após a realização das obras, recebe lotes, casas ou apartamentos no mesmo valor que o terreno tinha antes das obras.
 
-**Zonas especiais de interesse social \(ZEIS\) –** São áreas da cidade, definidas pelo Plano Diretor, comprometidas com a viabilização dos interesses das camadas populares. Ao município é dado instituir zonas com regras especiais, quando o uso admitido vier a promover a integração das pessoas mais necessitadas aos espaços habitáveis. As ZEIS servem para reservar terrenos ou prédios vazios para moradia popular; facilitar a regularização de áreas ocupadas; facilitar a regularização de cortiços.
+<mark style="color:blue;">**Zonas especiais de interesse social (ZEIS) –**</mark> São áreas da cidade, definidas pelo Plano Diretor, comprometidas com a viabilização dos interesses das camadas populares. Ao município é dado instituir zonas com regras especiais, quando o uso admitido vier a promover a integração das pessoas mais necessitadas aos espaços habitáveis. As ZEIS servem para reservar terrenos ou prédios vazios para moradia popular; facilitar a regularização de áreas ocupadas; facilitar a regularização de cortiços.
 
-**Operação Urbana:**
+<mark style="color:blue;">**Operação Urbana:**</mark>
 
 * parceria entre o poder público e iniciativa privada;
 * o empresariado contribui para a implantação de obras públicas e de índices urbanísticos em determinada área.
-
