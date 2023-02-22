@@ -1,18 +1,6 @@
----
-description: Prof. Erison Barros
----
-
 # Estatuto da Cidade
 
-O Estatuto da Cidade é uma lei federal brasileira promulgada em 2001 que visa promover a justa distribuição da renda, o desenvolvimento equilibrado e sustentável dos municípios, fortalecer a autonomia político-administrativa dos municípios, bem como a participação efetiva da população na gestão municipal.
-
-A lei estabelece diretrizes para o planejamento e organização urbana, definindo princípios para a organização social do território brasileiro. Estes princípios visam à equidade, à segurança, à qualidade de vida, ao controle das atividades metabólicas, à preservação do meio ambiente, bem como ao direito à cidade, à habitação adequada, à mobilidade urbana, à cultura, à comunicação e ao lazer.
-
-Além disso, o Estatuto da Cidade estabelece normas para o uso justo e sustentável dos recursos naturais e do solo, além de diretrizes para o uso de incentivos fiscais aos municípios. As leis que visam à implementação do estatuto da cidade visam aumentar a qualidade de vida das pessoas nas cidades, bem como a melhoria das infraestruturas urbanas.
-
-Além disso, o Estatuto da Cidade estabelece ainda que os municípios devem realizar ações de planejamento e controle urbano como forma de assegurar que as cidades permaneçam de forma ordenada e equilibrada.
-
-### Leis
+### Estatuto da Cidade
 
 Lei Nº 10.257, de 10/07/2001 Medida Provisória Nº 2.220, de 04/09/2001 MP Nº 103, de 01/01/2003 Conselho das Cidades
 
