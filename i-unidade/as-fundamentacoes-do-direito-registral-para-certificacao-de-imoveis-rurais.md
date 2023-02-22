@@ -58,19 +58,15 @@ Serão tratados, a seguir, referente às formas de aquisição da propriedade im
 
 1.3\*\*.1 Usucapião\*\*
 
-*
-  *
-    *
-      1. Conceito
+
 
 A aquisição da propriedade pode ser gerada pela posse prolongada da coisa, desde que estejam presentes certas exigências estabelecidas em lei. Usucapião é a forma de aquisição da propriedade mediante a posse suficientemente prolongada em conformidade com determinados requisitos (VENOSA, 2014).
 
 A usucapião tem como fundamento a aquisição da propriedade. O proprietário desidioso deve perder a coisa por não cuidar do seu patrimônio, em razão de alguém que, unindo posse e tempo, deseja firmar e pacificar a sua situação perante o bem e a sociedade (FARIAS; ROSENVALD, 2011).
 
-*
-  *
-    *
-      1. Pressupostos
+
+
+* Pressupostos
 
 A usucapião tem como pressupostos: coisa hábil ou suscetível de usucapião, posse, decurso do tempo, justo título e boa-fé. O três primeiros são exigidos em todas as espécies de usucapião. Os dois últimos, justo título e boa-fé, são reclamados somente na usucapião ordinária. Inicialmente, é imprescindível verificar se o bem que será objeto de usucapião é suscetível de prescrição aquisitiva, uma vez que nem todos são sujeitos a ela, como os bens fora do comércio e os bens públicos (GONÇALVES, 2010).
 
