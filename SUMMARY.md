@@ -48,3 +48,4 @@
 * [Direito Urbanístico](direito-urbanistico.md)
 * [Dos direitos de vizinhança](dos-direitos-de-vizinhanca.md)
 * [🏁 Legislação Profissional](legislacao-profissional.md)
+* [🇦🇸 Perícia na Engenharia](pericia-na-engenharia.md)
