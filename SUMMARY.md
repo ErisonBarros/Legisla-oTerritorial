@@ -50,3 +50,4 @@
 * [🏁 Legislação Profissional](legislacao-profissional.md)
 * [🇦🇸 Perícia na Engenharia](pericia-na-engenharia.md)
 * [▶ DIREITO TRUBUTARIO](direito-trubutario.md)
+* [🏤 Resumo de Direito Tributário](resumo-de-direito-tributario.md)
